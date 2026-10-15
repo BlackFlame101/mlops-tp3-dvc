@@ -11,4 +11,7 @@ mlruns/
 # Preferences locales de l'editeur
 .vscode/
 
+# Claude Code workspace
+.claude/
+
 # ATTENTION : pas de data/, models/ ni reports/ ici : DVC s'en charge
